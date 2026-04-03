@@ -7,17 +7,15 @@
 
 - 🔭 I’m currently working at [OnelineResults](https://onlineresults.nl/)
 
-- 🌱 I’m currently learning **Google Marketing**
+- 🌱 I’m currently learning **From my mistakes :D**
 
-- 🤝 I’m looking for help with **Motivation**
-
-- 👨‍💻 All of my projects are available at [grapseed.nl](grapseed.nl)
+- 🤝 I’m looking for help with **Caffeine Addiction**
 
 - 📝 I regularly write articles on [my comapany's blog](grapseed.nl/cases)
 
 - 💬 Ask me about **React, Next.js, Golang, Typescript, Business**
 
-- 📫 How to reach me **manuel@grapeseed.nl**
+- 📫 How to reach me **manuel.lopez@onlineresults.nl**
 
 - ⚡ Fun fact **I Love games but I barely Play video Games**
 
